@@ -18,6 +18,8 @@ In Competitive mode, users are also able to see their buddies stats, as well as 
 
 <img width="760" height="417" alt="Screenshot 2025-08-28 170547" src="https://github.com/user-attachments/assets/f99cb36d-66e5-44e5-949a-8bbfb172a7eb" />
 
+<iframe src="https://www.behance.net/embed/project/232035691?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
 Pear was created by:
 - Sara Johnson
 - Amna Saddiqa
