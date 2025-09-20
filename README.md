@@ -5,6 +5,10 @@ From June 2025 - August 2025, Everyone Can Code Chicago challenged teams to crea
 
 Pear is a prototype for a gym membership sharing app designed to address this challenge. Pear allows users to create an account to track gym progress, and has a feature to match with buddies in an area. Pear relies on gym memberships allowing guest passes under one membership, so that eligible buddies can share the cost of a single membership and both attend.
 
+[Project Showcase!](https://www.behance.net/gallery/232035691/Pear-iOS-App-Dev-Internship)
+
+
+
 Pear comes with four main tabs:
 - the Dashboard - users can access their membership cards and see personal stats
 - the Buddy Tab - users can match with a buddy, and then view details about their buddy
@@ -17,8 +21,6 @@ Additionally, Pear has two modes: Casual and Competitive.
 In Competitive mode, users are also able to see their buddies stats, as well as community stats.
 
 <img width="760" height="417" alt="Screenshot 2025-08-28 170547" src="https://github.com/user-attachments/assets/f99cb36d-66e5-44e5-949a-8bbfb172a7eb" />
-
-<iframe src="https://www.behance.net/embed/project/232035691?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 Pear was created by:
 - Sara Johnson
